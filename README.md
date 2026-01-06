@@ -19,4 +19,4 @@ test_names = [
 ]
 
 for name in test_names:
-    print("Original:", name, " → Standardized:", standardize_company(name))# Ranjana-Manna
+    print("Original:", name, " → Standardized:", standardize_company(name))
